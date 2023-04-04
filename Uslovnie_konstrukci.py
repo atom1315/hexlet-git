@@ -82,7 +82,7 @@ def get_type_of_sentence(sentence):
 
     return 'Sentence is ' + sentence_type
 
-print(get_type_of_sentence('Who?'))
+
 print(get_type_of_sentence('No'))
 print(get_type_of_sentence('No!'))
 
