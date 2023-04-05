@@ -1,0 +1,1 @@
+name = Mark print(name)
