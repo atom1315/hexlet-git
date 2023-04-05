@@ -1,2 +1,0 @@
-name = Mark
-print(name)
