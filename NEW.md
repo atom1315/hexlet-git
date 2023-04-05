@@ -1,1 +1,2 @@
-name = Mark print(name)
+name = Mark
+print(name)
