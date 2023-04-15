@@ -5,7 +5,7 @@ def get_type_of_sentence(sentence):
     return 'normal'
 
 print(get_type_of_sentence('Hodor'))
-print(get_type_of_sentence('Hodor?'))
+
 
 
 def name_eltern(sentence):
